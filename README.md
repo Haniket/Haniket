@@ -10,18 +10,6 @@ I am a Student, enthusiastic learner, and full-stack web developer who is always
 
 # 💪Worktime This week:
 <!--START_SECTION:waka-->
-
-```text
-From: 17 October 2022 - To: 24 October 2022
-
-Total Time: 8 hrs 32 mins
-
-JavaScript   7 hrs 48 mins   >>>>>>>>>>>>>>>>>>>>>>>--   91.32 %
-JSON         19 mins         >------------------------   03.74 %
-Java         10 mins         >------------------------   02.06 %
-Other        9 mins          -------------------------   01.84 %
-```
-
 <!--END_SECTION:waka-->
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=haniket&theme=maroongold&hide_border=false&include_all_commits=false&count_private=true)<br/>
