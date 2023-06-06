@@ -12,14 +12,14 @@ I am a Student, enthusiastic learner, and full-stack web developer who is always
 <!--START_SECTION:waka-->
 
 ```txt
-From: 28 May 2023 - To: 04 June 2023
+From: 29 May 2023 - To: 05 June 2023
 
-Total Time: 9 hrs 15 mins
+Total Time: 10 hrs 17 mins
 
-HTML         4 hrs 1 min     ███████████░░░░░░░░░░░░░░   43.53 %
-JavaScript   2 hrs 46 mins   ███████▒░░░░░░░░░░░░░░░░░   29.95 %
-TypeScript   2 hrs 23 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.84 %
-SCSS         3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.68 %
+JavaScript   4 hrs 6 mins    ██████████░░░░░░░░░░░░░░░   39.96 %
+HTML         3 hrs 15 mins   ████████░░░░░░░░░░░░░░░░░   31.59 %
+TypeScript   2 hrs 30 mins   ██████░░░░░░░░░░░░░░░░░░░   24.30 %
+SCSS         25 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.15 %
 ```
 
 <!--END_SECTION:waka-->
