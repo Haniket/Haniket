@@ -12,15 +12,15 @@ I am a Student, enthusiastic learner, and full-stack web developer who is always
 <!--START_SECTION:waka-->
 
 ```txt
-From: 25 April 2024 - To: 02 May 2024
+From: 26 April 2024 - To: 03 May 2024
 
-Total Time: 20 hrs 12 mins
+Total Time: 25 hrs 16 mins
 
-JavaScript     11 hrs 12 mins  ██████████████░░░░░░░░░░░   55.49 %
-Python         4 hrs 45 mins   ██████░░░░░░░░░░░░░░░░░░░   23.55 %
-Other          1 hr 41 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.41 %
-Text           59 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.94 %
-YAML           27 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.25 %
+JavaScript     14 hrs 20 mins  ██████████████▒░░░░░░░░░░   56.78 %
+Python         6 hrs 43 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.63 %
+Other          1 hr 40 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.65 %
+Text           59 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.96 %
+YAML           27 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.81 %
 ```
 
 <!--END_SECTION:waka-->
