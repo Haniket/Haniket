@@ -12,12 +12,11 @@ I am a Student, enthusiastic learner, and full-stack web developer who is always
 <!--START_SECTION:waka-->
 
 ```txt
-From: 03 October 2024 - To: 10 October 2024
+From: 04 October 2024 - To: 11 October 2024
 
 Total Time: 9 mins
 
-Other        9 mins          ████████████████████████░   95.59 %
-JavaScript   0 secs          █░░░░░░░░░░░░░░░░░░░░░░░░   04.41 %
+Other   9 mins          █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
