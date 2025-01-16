@@ -12,15 +12,15 @@ I am a Student, enthusiastic learner, and full-stack web developer who is always
 <!--START_SECTION:waka-->
 
 ```txt
-From: 07 January 2025 - To: 14 January 2025
+From: 08 January 2025 - To: 15 January 2025
 
-Total Time: 7 hrs 4 mins
+Total Time: 5 hrs 29 mins
 
-TypeScript   2 hrs 46 mins   █████████▓░░░░░░░░░░░░░░░   39.21 %
-JavaScript   2 hrs 36 mins   █████████▒░░░░░░░░░░░░░░░   36.81 %
-JSON         1 hr 27 mins    █████░░░░░░░░░░░░░░░░░░░░   20.59 %
-CSV          7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.85 %
-Other        6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.55 %
+TypeScript   2 hrs 37 mins   ████████████░░░░░░░░░░░░░   47.79 %
+JavaScript   2 hrs 20 mins   ██████████▓░░░░░░░░░░░░░░   42.69 %
+JSON         22 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.69 %
+CSV          4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.51 %
+Other        4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.30 %
 ```
 
 <!--END_SECTION:waka-->
