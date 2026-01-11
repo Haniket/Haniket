@@ -12,11 +12,11 @@ I am a Student, enthusiastic learner, and full-stack web developer who is always
 <!--START_SECTION:waka-->
 
 ```txt
-From: 01 January 2026 - To: 08 January 2026
+From: 03 January 2026 - To: 10 January 2026
 
-Total Time: 0 secs
+Total Time: 3 mins
 
-No activity tracked
+JSON   3 mins          █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
